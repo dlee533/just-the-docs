@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Task 1 (name it properly!!)
 nav_order: 2
 ---
 
