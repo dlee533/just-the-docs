@@ -22,4 +22,4 @@ This second quote, from [Walt Disney](https://www.brainyquote.com/quotes/walt_di
 
 When I was still living in Vancouver, our neighbour's Maine Coon cat would always come to our backyard and sit on the stairs. She was very open to being petted and had an incredible amount of fur. Almost every sunny day, she'd be there on the stairs when I arrived home from school.
 
-![Maine Coon Cat](./gh-pages/assets/images/maine_coon_cat.png)
+![Maine Coon Cat](/assets/images/maine_coon_cat.png)
