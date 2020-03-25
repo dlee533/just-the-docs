@@ -54,6 +54,7 @@ Simple and concise writing enables reader to understand the content with little 
     `We don't know why the screen door was left open.`
 
 > There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
+
     `We want to continue having spring break to take a break from studying`
 
 ***
