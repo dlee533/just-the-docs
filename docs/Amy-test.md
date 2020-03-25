@@ -71,3 +71,18 @@ Here's a block of code showing how to create an unordered list in HTML:
 </ul>
 ````
 
+---
+
+Here's a block of code showing how to create a method inside a class in Java:
+
+```java
+public class MyClass {
+  static void myMethod() {
+    System.out.println("I just got executed!");
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
+```
