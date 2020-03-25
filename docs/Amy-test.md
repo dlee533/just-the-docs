@@ -73,7 +73,7 @@ Here's a block of code showing how to create an unordered list in HTML:
 
 ---
 
-Here's a block of code showing how to create a method inside a class in Java:
+Here's a block of code showing how to create a method and execute it inside a class in Java:
 
 ```java
 public class MyClass {
@@ -86,3 +86,5 @@ public class MyClass {
   }
 }
 ```
+
+**I'm finally done this challenge!**
