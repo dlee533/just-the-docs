@@ -43,8 +43,8 @@ As a web reader, we want to quickly find the information we want and it should b
 
 Turn a sentence like this:
 
-  At this point in time we can’t ascertain the reason as to why the screen door was left open.
+> At this point in time we can’t ascertain the reason as to why the screen door was left open.
 
 into this:
 
-  Right now, we don't know why the screen door was left open.
+`Right now, we don't know why the screen door was left open.`
