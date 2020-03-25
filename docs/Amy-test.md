@@ -34,3 +34,8 @@ When I was still living in Vancouver, our neighbour's Maine Coon cat would alway
 | Obtain | _get_ |
 | Subsequent | _next_ |
 | In the vicinity of | _near_ |
+
+### Conciseness Helps Web Readers
+
+As a web reader, we want to quickly find the information we want and it should be simple and easy to understand. When information becomes too wordy, it makes it harder for us to find the information we want and can cause it to become difficult to read. Conciseness will make information quick to find, simple, and easy to understand.
+
