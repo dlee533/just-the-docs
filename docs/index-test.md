@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 11
+nav_order: 10
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
