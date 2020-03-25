@@ -14,7 +14,7 @@ This first quote, from late physicist [Stephan Hawking](https://www.brainyquote.
 
 ---
 
-This second quote, from [Walt Disney](https://www.brainyquote.com/quotes/walt_disney_131651?src=t_communication), talks about how the universal understanding of pictures.
+This second quote, from [Walt Disney](https://www.brainyquote.com/quotes/walt_disney_131651?src=t_communication), talks about the universal understanding of pictures.
 
 > Of all of our inventions for mass communication, pictures still speak the most universally understood language.
 
