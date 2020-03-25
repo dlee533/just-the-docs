@@ -58,3 +58,16 @@ Turn a sentence like this:
 into this:
 
 `We want to continue spring break to avoid studying.`
+
+## Code Blocks Make Me Happy
+
+Here's a block of code showing how to create an unordered list in HTML:
+
+```html
+<ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+</ul>
+````
+
