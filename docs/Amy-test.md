@@ -26,6 +26,11 @@ When I was still living in Vancouver, our neighbour's Maine Coon cat would alway
 
 ## Tables are Fun
 
-**Text** | **Simplified Text (_In italics_)**
----------|-----------------------------------
-
+| **Text** | **Simplified Text (_In italics_)** |
+| -------- | ---------------------------------- |
+| Due to the fact that | _because_ |
+| In the event that | _if_ |
+| At this point in time | _now_ |
+| Obtain | _get_ |
+| Subsequent | _next_ |
+| In the vicinity of | _near_ |
