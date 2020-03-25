@@ -17,3 +17,34 @@ This first quote, from late physicist [Stephan Hawking](https://www.brainyquote.
 This second quote, from [Walt Disney](https://www.brainyquote.com/quotes/walt_disney_131651?src=t_communication), talks about how the universal understanding of pictures.
 
 > Of all of our inventions for mass communication, pictures still speak the most universally understood language.
+
+## Cats
+
+When I was still living in Vancouver, our neighbour's Maine Coon cat would always come to our backyard and sit on the stairs. She was very open to being petted and had an incredible amount of fur. Almost every sunny day, she'd be there on the stairs when I arrived home from school.
+
+![Maine Coon Cat](/assets/images/maine_coon_cat.png)
+
+## Tables are Fun
+
+| **Text** | **Simplified Text (_In italics_)** |
+| -------- | ---------------------------------- |
+| Due to the fact that | _because_ |
+| In the event that | _if_ |
+| At this point in time | _now_ |
+| Obtain | _get_ |
+| Subsequent | _next_ |
+| In the vicinity of | _near_ |
+
+### Conciseness Helps Web Readers
+
+As a web reader, we want to quickly find the information we want and it should be simple and easy to understand. When information becomes too wordy, it makes it harder for us to find the information we want and can cause it to become difficult to read. Conciseness will make information quick to find, simple, and easy to understand. Here are some examples of how we can make sentences more concise.
+
+#### Consiseness Sample 1
+
+Turn a sentence like this:
+
+  At this point in time we can’t ascertain the reason as to why the screen door was left open.
+
+into this:
+
+  Right now, we don't know why the screen door was left open.
