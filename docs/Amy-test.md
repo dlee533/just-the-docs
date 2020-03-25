@@ -24,7 +24,8 @@ When I was still living in Vancouver, our neighbour's Maine Coon cat would alway
 
 ![Maine Coon Cat](/assets/images/maine_coon_cat.png)
 
-
 ## Tables are Fun
 
 **Text** | **Simplified Text (_In italics_)**
+---------|-----------------------------------
+
