@@ -50,12 +50,10 @@ In the vicinity of | _near_
 Simple and concise writing enables reader to understand the content with little effort.
 
 > At this point in time we can’t ascertain the reason as to why the screen door was left open.
-
-  `We don't know why the screen door was left open.`
+`We don't know why the screen door was left open.`
 
 > There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
-
-  `We want to continue having spring break to take a break from studying`
+`We want to continue having spring break to take a break from studying`
 
 ***
 
