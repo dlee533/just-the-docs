@@ -10,7 +10,7 @@ This first quote from Urrsula [K. Le Guin](https://www.brainyquote.com/quotes/ur
 
 > Morning comes whether you set the alarm or not.
 
---
+---
 
 This second quote, from a poet - [Ovid](https://www.brainyquote.com/quotes/ovid_136005) - reminds me of my lengthy to do list and the grades I will be receiving.
 
@@ -25,3 +25,7 @@ This second quote, from a poet - [Ovid](https://www.brainyquote.com/quotes/ovid_
 I am allergic to cats. But they seem like the most decent choice if I must pick an animal.
 
 ![cat](../assets/images/cat.jpg)
+
+---
+
+# Task 3: Create a Table
