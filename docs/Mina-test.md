@@ -24,4 +24,4 @@ This second quote, from a poet - [Ovid](https://www.brainyquote.com/quotes/ovid_
 
 I am allergic to cats. But they seem like the most decent choice if I must pick an animal.
 
-[cat]: /assets/images/cat.jpg "cat"
+![cat] (/assets/images/cat.jpg)
