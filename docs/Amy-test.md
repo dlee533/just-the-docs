@@ -3,3 +3,11 @@ layout: default
 title: Test Markdown Amy
 nav_order: 11
 ---
+
+# Famous Quotes
+
+This first quote, from late physicist [Stephan Hawking](https://www.brainyquote.com/quotes/stephen_hawking_109983?src=t_computers), compares computer viruses with life.
+
+>I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image.
+
+---
