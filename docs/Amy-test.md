@@ -37,5 +37,14 @@ When I was still living in Vancouver, our neighbour's Maine Coon cat would alway
 
 ### Conciseness Helps Web Readers
 
-As a web reader, we want to quickly find the information we want and it should be simple and easy to understand. When information becomes too wordy, it makes it harder for us to find the information we want and can cause it to become difficult to read. Conciseness will make information quick to find, simple, and easy to understand.
+As a web reader, we want to quickly find the information we want and it should be simple and easy to understand. When information becomes too wordy, it makes it harder for us to find the information we want and can cause it to become difficult to read. Conciseness will make information quick to find, simple, and easy to understand. Here are some examples of how we can make sentences more concise.
 
+#### Consiseness Sample 1
+
+Turn a sentence like this:
+
+  At this point in time we can’t ascertain the reason as to why the screen door was left open.
+
+into this:
+
+  Right now, we don't know why the screen door was left open.
