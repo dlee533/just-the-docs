@@ -17,3 +17,9 @@ This first quote, from late physicist [Stephan Hawking](https://www.brainyquote.
 This second quote, from [Walt Disney](https://www.brainyquote.com/quotes/walt_disney_131651?src=t_communication), talks about how the universal understanding of pictures.
 
 > Of all of our inventions for mass communication, pictures still speak the most universally understood language.
+
+## Cats
+
+When I was still living in Vancouver, our neighbour's Maine Coon cat would always come to our backyard and sit on the stairs. She was very open to being petted and had an incredible amount of fur. Almost every sunny day, she'd be there on the stairs when I arrived home from school.
+
+![Maine Coon Cat](https://www.brainyquote.com/quotes/walt_disney_131651?src=t_communication)
