@@ -18,4 +18,10 @@ This second quote, from a poet - [Ovid](https://www.brainyquote.com/quotes/ovid_
 
 ---
 
-Task 2: Insert an image of an animal you like
+# Task 2: Insert an image of an animal you like
+
+## Cat
+
+I am allergic to cats; therefore, I cannot get near them. But they seem like the most decent pet if I must pick an animal.
+
+[cat]: /assets/images/cat.jpg "cat"
