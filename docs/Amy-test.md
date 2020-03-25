@@ -48,3 +48,13 @@ Turn a sentence like this:
 into this:
 
 `Right now, we don't know why the screen door was left open.`
+
+#### Consiseness Sample 2
+
+Turn a sentence like this:
+
+> There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
+
+into this:
+
+`We want to continue spring break to avoid studying.`
