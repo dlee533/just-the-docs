@@ -6,6 +6,8 @@ nav_order: 3
 
 
 # Creating a Unit Test File
+{: .no_toc }
+
 This section will guide you through the steps to create a unit test file in PyCharm. There are two methods to create a unit test file: using the toolbar at the top and right-clicking the function.
 
 ## Table of contents	
