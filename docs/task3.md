@@ -14,3 +14,6 @@ Write description here
 {: .no_toc .text-delta }	
 1. TOC	
 {:toc}	
+
+___Note: A Git repository must be set up beforehand. See "Creating a Git Respository and Connecting to Github" to set up a git repository___ (connect to the other page")
+##
