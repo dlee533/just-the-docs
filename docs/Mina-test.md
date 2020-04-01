@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Markdown Mina
-nav_order: 12
+nav_order: 8
 ---
 
 # Task 1: Create a Second Level Heading Titled Famous Quotes
