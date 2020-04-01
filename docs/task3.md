@@ -36,7 +36,7 @@ Before you can start creating different versions of your code by committing them
 4. Click ```Add``` to stage the files for commit
 > ![Click "Add" to stage the files for commit](../assets/images/task3-1-4.png)
 
-- Or click ```Ctrl``` + ```Alt``` + ```A``` on your keyboard
+- which is an equivalent of typing ```Ctrl``` + ```Alt``` + ```A``` on your keyboard
 
 OR
 
