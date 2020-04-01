@@ -55,8 +55,7 @@ footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an
 color_scheme: "dark"	
 ```	
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>	
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>	
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.	
+<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
 ## Google Analytics	
 ```yaml	
 # Google Analytics Tracking (optional)	
