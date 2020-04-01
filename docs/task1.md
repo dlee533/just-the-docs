@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }	
 
 
-Create a git repository and connect to Github to version control and share your code
+Create a git repository and connect it to Github to version control and share your code
 {: .fs-6 .fw-300 }	
 ## Table of contents	
 {: .no_toc .text-delta }	
