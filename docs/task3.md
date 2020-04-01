@@ -15,7 +15,11 @@ Write description here
 1. TOC	
 {:toc}	
 
+***
+
 ___Note: A Git repository must be set up beforehand. See "Creating a Git Respository and Connecting to Github" to set up a git repository___ (connect to the other page")
+
+***
 
 ## Adding Files
 Before you can start creating different versions of your code by committing them, you first need to stage/add files to the repository, this will enable the file to be considered for the commit.
@@ -30,6 +34,8 @@ OR
 
 Right click the file on the sidebar, click ```Git``` then ```Add```
 
+***
+
 ## Committing Files
 
 1. Click ```VCS``` from menubar at the top
@@ -38,3 +44,10 @@ Right click the file on the sidebar, click ```Git``` then ```Add```
 4. Write a commit message
 5. Click ```Commit```
 
+***
+
+## Pushing to GitHub
+
+1. Click ```VCS``` from menubar at the top
+2. Click ```Git```
+3. Click ```Push...``` (or click ```Ctrl``` + ```Shift``` + ```k``` on your keyboard for shortcut)
