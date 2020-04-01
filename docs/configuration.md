@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 1 (name it properly!!)
+title: Setting Up A Git Repository and Connecting to Github
 nav_order: 2
 ---
 
