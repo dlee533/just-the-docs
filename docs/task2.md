@@ -15,23 +15,24 @@ This section will guide you through the steps to create a unit test file in PyCh
 {: .no_toc .text-delta }	
 1. TOC
 2. Method 1: Using the Toolbar
-{:toc}	
+3. Method 2: Right-Clicking the Function
+{:toc}
 
 ***
 
 ## Method 1: Using the Toolbar
 1. Click or highlight the name of the function
-2. Click “Code” from the toolbar at the top
-3. Click “Generate...”
-4. Click “Test”
+2. Click ```Code``` from the toolbar at the top
+3. Click ```Generate...```
+4. Click ```Test```
 5. Click the checkbox for all functions that require unit tests
-6. Click “Ok”
+6. Click ```Ok```
 7. Add file to Git repository if prompted
 
 ## Method 2: Right-Clicking the Function
 1. Right click the name of the function
-2. Click “Generate…”
-3. Click “Test”
+2. Click ```Generate…```
+3. Click ```Test```
 4. Click the checkbox for all functions that require unit tests
-5. Click “Ok”
+5. Click ```Ok```
 6. Add file to Git repository if prompted
