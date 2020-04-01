@@ -22,7 +22,7 @@ Version control allows the programmer to view their progress and easily revert t
 
 By using PyCharm's Git integeration, you can create a local git repository with easy-to-understand graphical user interface.
 
-1. Click ```vcs``` on the menu bar
+1. Click ```VCS``` on the menu bar
 2. Click ```Import into Version Control```
 3. Click ```Create Git Repository```
 4. Choose a destination folder for your Git repository
