@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Markdown Amy
-nav_order: 11
+nav_order: 7
 ---
 
 # Test Markdown Amy
