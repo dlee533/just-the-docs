@@ -9,10 +9,10 @@ nav_order: 3
 This section will guide you through the steps to create a unit test file in PyCharm. There are two methods to create a unit test file: using the toolbar at the top and right-clicking the function.
 
 ## Table of contents	
-1. Method 1: Using the Toolbar
-2. Method 2: Right-Clicking the Function
+1. [Method 1: Using the Toolbar](#method-1:-using-the-toolbar)
+2. [Method 2: Right-Clicking the Function](#method-2:-right-clicking-the-function)
 
-***
+---
 
 ## Method 1: Using the Toolbar
 1. Click or highlight the name of the function
