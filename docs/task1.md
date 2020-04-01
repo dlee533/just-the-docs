@@ -1,5 +1,5 @@
 ---	
 layout: default	
-title: Setting Up A Git Repository and Connecting to Github	
+title: Creating a Git Repository And Connecting To Github
 nav_order: 2	
 ---	
