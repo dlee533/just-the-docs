@@ -30,7 +30,11 @@ OR
 
 Right click the file on the sidebar, click ```Git``` then ```Add```
 
-### Committing Files
+## Committing Files
 
 1. Click ```VCS``` from menubar at the top
 2. Click ```Commit``` (Or click ```ctrl``` + ```k``` on your keyboard)
+3. Check the checkboxes for the files you would like to commit
+4. Write a commit message
+5. Click ```Commit```
+
