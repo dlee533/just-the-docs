@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Committing and Pushing To Github
+title: Adding, Committing, and Pushing your code to Github
 nav_order: 4
 ---
