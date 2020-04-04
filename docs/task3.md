@@ -8,9 +8,7 @@ nav_order: 4
 {: .no_toc }	
 
 
-Git is a version control system for keeping track of code changes. You can record the current version by adding and committing your code to your local Git repository. 
-You can collaborate with other programmers with the use of GitHub. Push your Git repository to GitHub where you can share your code.
-
+Git is a version control system for keeping track of code changes. You can record the current version by adding and committing your code to your local Git repository. You can collaborate with other programmers with the use of GitHub. Push your Git repository to GitHub where you can share your code.
 With PyCharm's graphical user interface, you can perform actions supported by Git and GitHub without memorizing the commands normally used with Command Prompt.
 {: .fs-6 .fw-300 }	
 ## Table of contents	
