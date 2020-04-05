@@ -17,6 +17,8 @@ Use PyCharm to add, commit and push your code to GitHub
 
 ***
 
+Version control and sharing your code using Git and GitHub are two of the most sought after skills that employers look for. By following the steps, you will be able to keep track of different version of your code as you work on a project and share them as required.
+
 ___Note: A Git repository must be set up beforehand. See "Creating a Git Respository and Connecting to Github" to set up a git repository___ (connect to the other page")
 
 ***
@@ -26,6 +28,8 @@ Before you can start creating different versions of your code by committing them
 
 1. Open the file you want to add to Git repository
 > ![Open the file you want to add to Git repository](../assets/images/task3-1-1.png)
+
+___Note: all the files that have not been added yet will appear in red font___
 
 2. Click ```VCS``` from menu bar at the top
 > ![Click "VCS" from menu bar at the top](../assets/images/task3-1-2.png)
@@ -42,6 +46,9 @@ OR
 
 Right click the file on the sidebar, click ```Git``` then ```Add```
 > ![Right click the file on the sidebar, click "Git" then "Add"](../assets/images/task3-1-5.png)
+
+___Note: the file name will now appear in green when you successfully add the file___
+
 
 ***
 
@@ -61,6 +68,8 @@ Right click the file on the sidebar, click ```Git``` then ```Add```
 
 5. Click ```Commit```
 > ![Click "Commit"](../assets/images/task3-2-5.png)
+
+___Note: the file name will now appear in white when you successfully add the file___
 
 ***
 
