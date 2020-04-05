@@ -83,3 +83,8 @@ ___Note: the file name will appear in white when you successfully add the file__
 
 3. Click ```Push...``` (or click ```CTRL``` + ```Shift``` + ```K``` on your keyboard for shortcut)
 > ![Click "Push..." (or click "CTRL" + "Shift" + "K" on your keyboard for shortcut)](../assets/images/task3-3-3.png)
+
+***
+
+You have added, committed, and pushed your code to your GitHub cloud repository.
+You can check whether the process was successful by logging into your GitHub account and checking your version history. 
