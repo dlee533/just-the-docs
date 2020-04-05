@@ -58,3 +58,7 @@ This section will guide you through the steps to create a unit test file in PyCh
 
 6. Add file to Git repository if prompted
 > ![Add file to Git repository if prompted](../assets/images/task2-2-6.png)
+
+***
+
+You have created a unit test file.
