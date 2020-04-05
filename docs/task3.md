@@ -47,7 +47,7 @@ OR
 Right click the file on the sidebar, click ```Git``` then ```Add```
 > ![Right click the file on the sidebar, click "Git" then "Add"](../assets/images/task3-1-5.png)
 
-___Note: the file name will now appear in green when you successfully add the file___
+___Note: the file name will appear in green when you successfully add the file___
 
 
 ***
@@ -69,7 +69,7 @@ ___Note: the file name will now appear in green when you successfully add the fi
 5. Click ```Commit```
 > ![Click "Commit"](../assets/images/task3-2-5.png)
 
-___Note: the file name will now appear in white when you successfully add the file___
+___Note: the file name will appear in white when you successfully add the file___
 
 ***
 
