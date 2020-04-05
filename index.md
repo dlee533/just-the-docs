@@ -6,15 +6,16 @@ description: "User documentation for JetBrains PyCharm IDE."
 permalink: /
 ---
 
+
+
+
 # Introduction
 
 
-## Table of Contents
-1. Is This Guide For You
-2. Software Versions
-3. Prerequisites
-4. Typographical Conventions
-5. Conclusion
+## Table of contents	
+{: .no_toc .text-delta }	
+1. TOC	
+{:toc}
 
 ## Is This Guide For You
 
