@@ -4,11 +4,11 @@ title: Adding, Committing and Pushing your code to Github
 nav_order: 4
 ---
 
-# Adding, Committing and Pushing your code to Github
+# Adding, Committing and Pushing your code to GitHub
 {: .no_toc }	
 
 
-Git is a version control system for keeping track of code changes. You can record the current version by adding and committing your code to your local Git repository. You can collaborate with other programmers with the use of GitHub. Push your Git repository to GitHub where you can share your code.
+Use PyCharm to add, commit and push your code to GitHub
 {: .fs-6 .fw-300 }	
 ## Table of contents	
 {: .no_toc .text-delta }	
