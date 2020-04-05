@@ -61,3 +61,7 @@ PyCharm's Git integration removes the need to understand git command used on com
 
 6. Click ```Share```
 > ![Click "Share"](../assets/images/task1-2-6.png)
+
+***
+
+You have created a local Git repository on your personal computer and connected it to your GitHub account.
