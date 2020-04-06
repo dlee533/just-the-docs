@@ -24,19 +24,26 @@ If you are:
 * know the basics of version control with Git and GitHub.
 
 ## Software Versions
-This guide uses PyCharm version 2019.4.4 for Window, and Python 3.8.2.
+This guide uses PyCharm version 2019.4.4 for Window, Git 2.25.0.windows.1, and Python 3.8.2.
 
 ❗ **Note:** You must have a _valid_ subscription to the _JetBrains Toolbox_ before you can download PyCharm.
 
 If you do not have PyCharm installed, download the latest version [here](https://www.jetbrains.com/pycharm/download/#section=windows).
 
+If you do not have Git installed, download the latest version [here](https://git-scm.com/download/win).
+
 If you do not have Python installed, download the latest version [here](https://www.python.org/downloads/).
+
+
+
 
 ## Prerequisites
 To follow along with this document, you will need the following:
 * 64-bit versions of Microsoft Windows 10, 8, 7,
 * PyCharm Professional version 2019.4.4 for Window,
 * Python 3.7 or newer,
+* GitHub id,
+* Git version 2.25.0.windows.1
 * understanding of unittest framework, and
 * understanding of version control.
 
