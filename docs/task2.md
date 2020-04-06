@@ -7,7 +7,7 @@ nav_order: 3
 # Creating a Unit Test File
 {: .no_toc }
 
-Create a unit test file for a function.
+Create a unit test file for one of your functions.
 {: .fs-6 .fw-300 }
 
 ## Table of contents	
@@ -17,7 +17,16 @@ Create a unit test file for a function.
 
 ---
 
-## Creating a Unit Test File
+## What is Unit Testing?
+
+Unit testing consists of testing individual components of a software application during the development phase. Unit testing is usually done by developers instead of testers.
+
+Unit testing is important because it is one of the earliest testing efforts performed on the code and the earlier defects are detected, the easier they are to fix. Early bug-detection is also the most cost-effective for a project, with code fixes becoming more expensive the later they're found in the lifecycle.
+
+---
+
+## Creating Your Own Unit Test File
+
 This section will guide you through the steps to create a unit test file in PyCharm using two methods: using the toolbar at the top and right-clicking the function.
 
 ---
