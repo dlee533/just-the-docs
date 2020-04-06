@@ -6,15 +6,16 @@ description: "User documentation for JetBrains PyCharm IDE."
 permalink: /
 ---
 
+_PyCharm_ is a subscription-based _Python IDE_ developed by _JetBrains_. The JetBrains PyCharm IDE is widely adopted in the tech industry and educational environment.
+
+
 ## Table of contents	
 {: .no_toc .text-delta }	
 1. TOC	
 {:toc}
 
 ## Introduction
-_PyCharm_ is a subscription-based _Python IDE_ developed by _JetBrains_. The JetBrains PyCharm IDE is widely adopted in the tech industry and educational environment.
-
-This purpose of this document is to help you become more familiar with some of PyCharm's built-in features. In this document, we will guide you through using PyCharm's _git version control_ features as well as its _unit testing_ features.
+The purpose of this document is to help you become more familiar with some of PyCharm's built-in features. In this document, we will guide you through using PyCharm's _git version control_ features as well as its _unit testing_ features.
 
 ## Is This Guide For You
 If you are:
