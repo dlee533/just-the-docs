@@ -20,6 +20,8 @@ Create a unit test file for a function.
 ## Creating a Unit Test File
 This section will guide you through the steps to create a unit test file in PyCharm using two methods: using the toolbar at the top and right-clicking the function.
 
+---
+
 ## Method 1: Using the Toolbar
 1. Click or highlight the name of the function
 > ![Click or highlight the name of the function](../assets/images/task2-1-1.png)
@@ -47,6 +49,8 @@ This section will guide you through the steps to create a unit test file in PyCh
 > ![Add file to Git repository if prompted](../assets/images/task2-1-7.png)
 
 ❗ **Note:** See [Adding, Committing and Pushing your code to Github](https://dlee.ca/user-documentation/docs/task3/) for manually adding the file to your git repository.
+
+---
 
 ## Method 2: Right-Clicking the Function
 1. Right click the name of the function
