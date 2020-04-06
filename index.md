@@ -12,7 +12,9 @@ permalink: /
 {:toc}
 
 ## Introduction
+PyCharm is a subscription-based Python IDE developed by JetBrains. The Jetbrains PyCharm IDE is widely adopted in the tech industry and educational environment.
 
+This purpose of this document is to help you become more familiar with some of PyCharm's built-in features. In this document, we will guide you through using PyCharm's git version control features as well as its unit testing features.
 
 ## Is This Guide For You
 If you are:
