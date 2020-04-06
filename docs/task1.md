@@ -17,7 +17,7 @@ Create a git repository and connect it to Github to version control and share yo
 
 ---
 
-## Create a local git repository
+## Creating a local git repository
 _Version control_ allows the programmer to view their progress and easily revert to the previous version when required. In order to enable version control, you first need to create a local _Git repository_.
 
 By using PyCharm's _Git_ integeration, you can create a local git repository with the easy-to-understand _Graphical User Interface(GUI)_.
