@@ -18,10 +18,10 @@ This purpose of this document is to help you become more familiar with some of P
 
 ## Is This Guide For You
 If you are:
-* an intermediate Python developer looking to automate development process,</li>
-* exploring functions supported by PyCharm,</li>
-* know how to write Python's unittest framework, and </li>
-* know the basics of version control with Git and GitHub.</li>
+* an intermediate Python developer looking to automate development process,
+* exploring functions supported by PyCharm,
+* know how to write Python's unittest framework, and
+* know the basics of version control with Git and GitHub.
 
 ## Software Versions
 This guide uses PyCharm version 2019.4.4 for Window, and Python 3.8.2.
@@ -34,11 +34,11 @@ If you do not have Python installed, download the latest version [here](https://
 
 ## Prerequisites
 To follow along with this document, you will need the following:
-* 64-bit versions of Microsoft Windows 10, 8, 7,</li>
-* PyCharm Professional version 2019.4.4 for Window,</li>
-* Python 3.7 or newer,</li>
-* understanding of unittest framework, and </li>
-* understanding of version control.</li>
+* 64-bit versions of Microsoft Windows 10, 8, 7,
+* PyCharm Professional version 2019.4.4 for Window,
+* Python 3.7 or newer,
+* understanding of unittest framework, and
+* understanding of version control.
 
 ## Typographical Conventions
 This document uses the following typographical conventions.
