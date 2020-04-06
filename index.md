@@ -44,6 +44,7 @@ To follow along with this document, you will need the following:
 This document uses the following typographical conventions.
 
 | **Convention** | **Typeface** | **Examples** |
+| -------------- | ------------ | ------------ |
 | Menu options and buttons | ```Light``` | ```Ok```, ```VCS```, ```Git```|
 | Keyboard Keystrokes | **[Bold]** | **[Ctrl]**, **[Shift]**, **[Alt]** |
 | Key terms and emphasis | _Italics_ | _valid_, _Git_, _GitHub_ |
