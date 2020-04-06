@@ -7,6 +7,7 @@ permalink: /
 ---
 
 _PyCharm_ is a subscription-based _Python IDE_ developed by _JetBrains_. The JetBrains PyCharm IDE is widely adopted in the tech industry and educational environment.
+{: .fs-6 .fw-300 }
 
 
 ## Table of contents	
