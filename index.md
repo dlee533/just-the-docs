@@ -6,6 +6,7 @@ description: "User documentation for JetBrains PyCharm IDE."
 permalink: /
 ---
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/96px-PyCharm_Logo.svg.png" alt="Python logo">
 _PyCharm_ is a subscription-based _Python IDE_ developed by _JetBrains_. The JetBrains PyCharm IDE is widely adopted in the tech industry and educational environment.
 {: .fs-6 .fw-300 }
 
