@@ -8,10 +8,10 @@ Here are some terms and definitions to guide you in this document.
 
 ---
 
-**Add:** a command used to stage the file for commit in PyCharm.
-**Commit:** a command used to save your current state to your local repository.
-**Framework:** a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software.    
-**Git:** a distributed version-control system for tracking changes in source code during software development.    
+**Add:** a command used to stage the file for commit in PyCharm.      
+**Commit:** a command used to save your current state to your local repository.       
+**Framework:** a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software.         
+**Git:** a distributed version-control system for tracking changes in source code during software development.      
 **GitHub:** a US-based global company that provides hosting for software development version control using Git.   
 **Git Repository:** a ```./git``` folder that holds informations on all changes made to project files.    
 **IDE (Integrated Development Environment):** a software application that provides comprehensive facilities to computer programmers for software development.    
