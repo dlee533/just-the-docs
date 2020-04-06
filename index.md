@@ -26,12 +26,13 @@ If you are:
 ## Software Versions
 This guide uses PyCharm version 2019.4.4 for Window, and Python 3.8.2.
 
+**Note:** You must have a _valid_ subscription to the _JetBrains Toolbox_ before you can download PyCharm.
+
 If you do not have PyCharm installed, download the latest version [here](https://www.jetbrains.com/pycharm/download/#section=windows).
 
 If you do not have Python installed, download the latest version [here](https://www.python.org/downloads/).
 
 ## Prerequisites
-
 To follow along with this document, you will need the following:
 * 64-bit versions of Microsoft Windows 10, 8, 7,</li>
 * PyCharm Professional version 2019.4.4 for Window,</li>
@@ -40,5 +41,12 @@ To follow along with this document, you will need the following:
 * understanding of version control.</li>
 
 ## Typographical Conventions
+This document uses the following typographical conventions.
+
+| **Convention** | **Typeface** | **Examples** |
+| Menu options and buttons | ```Light``` | ```Ok```, ```VCS```, ```Git```|
+| Keyboard Keystrokes | **[Bold]** | **[Ctrl]**, **[Shift]**, **[Alt]** |
+| Key terms and emphasis | _Italics_ | _valid_, _Git_, _GitHub_ |
 
 ## Conclusion
+
