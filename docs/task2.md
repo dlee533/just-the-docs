@@ -66,11 +66,15 @@ This section will guide you through the steps to create a unit test file in PyCh
 4. Click the checkbox for all functions that require unit tests
 > ![Click the checkbox for all functions that require unit tests](../assets/images/task2-2-4.png)
 
+❗ **Note:** You must check the checkbox next to the function or else a unit test will not be created.
+
 5. Click ```Ok```
 > ![Click "Ok"](../assets/images/task2-2-5.png)
 
 6. Add file to Git repository if prompted
 > ![Add file to Git repository if prompted](../assets/images/task2-2-6.png)
+
+❗ **Note:** See [Adding, Committing and Pushing your code to Github](https://dlee.ca/user-documentation/docs/task3/) for manually adding the file to your git repository.
 
 ---
 
