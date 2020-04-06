@@ -23,7 +23,7 @@ Version control and sharing your code using Git and GitHub are two of the most s
 
 ---
 
-## Adding Files
+## Adding a File
 Before you can start creating different versions of your code by committing them, you first need to stage/add files to the repository, this will enable the file to be considered for the commit.
 
 1. Open the file you want to add to Git repository
@@ -51,7 +51,7 @@ Right click the file on the sidebar, click ```Git``` then ```Add```
 
 ---
 
-## Committing Files
+## Committing a change
 
 1. Click ```VCS``` from menu bar at the top
 > ![Click "VCS" from menu bar at the top](../assets/images/task3-2-1.png)
