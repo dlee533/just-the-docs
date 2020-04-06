@@ -15,7 +15,7 @@ Create a git repository and connect it to Github to version control and share yo
 1. TOC	
 {:toc}	
 
-***
+---
 
 ## Create a local git repository
 _Version control_ allows the programmer to view their progress and easily revert to the previous version when required. In order to enable version control, you first need to create a local Git repository.
@@ -37,7 +37,7 @@ By using PyCharm's _Git_ integeration, you can create a local _git repository_ w
 5. Click ```Ok``` at the bottom
 > ![Click "Ok" at the bottom](../assets/images/task1-1-5.png)
 
-***
+---
 
 ## Connecting to GitHub
 Once you finished setting up the local Git repository, you can control the versions and share the repository with others using GitHub.
