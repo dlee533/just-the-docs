@@ -16,6 +16,6 @@ Here are some terms and definitions to guide you in this document.
 **JetBrains:** a software development company whose tools are targeted towards software developers and project managers.    
 **JetBrains Toolbox:** an application developed by JetBrains with all-in-one access to all of their IDEs.    
 **Python:** an interpreted, high-level, general-purpose programming language.    
-**unittest:** a unit testing framework for Python, based on Java's JUnit
+**unittest:** a unit testing framework for Python, based on Java's JUnit.
 **Unit Test:** a level of software testing where individual units/components of a software are tested.    
 **Version Control:** a system that records changes to a file or set of files over time so that you can recall specific versions later.    
