@@ -50,4 +50,4 @@ This document uses the following typographical conventions.
 | Key terms and emphasis | _Italics_ | _valid_, _Git_, _GitHub_ |
 
 ## Conclusion
-
+Let’s get started on learning about some of PyCharm's built-in features. We recommend starting with [creating a git repository](https://dlee.ca/user-documentation/docs/task1/) first _before_ moving onto _adding, committing and pushing your code to GitHub_. _Creating a unit test file_ can be done at any time.
