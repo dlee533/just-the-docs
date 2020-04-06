@@ -57,8 +57,8 @@ ___Note: the file name will appear in green when you successfully add the file__
 1. Click ```VCS``` from menu bar at the top
 > ![Click "VCS" from menu bar at the top](../assets/images/task3-2-1.png)
 
-2. Click ```Commit``` (Or click ```CTRL``` + ```K``` on your keyboard)
-> ![Click "Commit" (Or click "CTRL" + "K" on your keyboard)](../assets/images/task3-2-2.png)
+2. Click ```Commit``` (Or click __[CTRL]__ + __[K]__ on your keyboard)
+> ![Click "Commit" (Or click __[CTRL]__ + __[K]__ on your keyboard)](../assets/images/task3-2-2.png)
 
 3. Check the checkboxes for the files you would like to commit
 > ![Check the checkboxes for the files you would like to commit](../assets/images/task3-2-3.png)
@@ -81,8 +81,8 @@ ___Note: the file name will appear in white when you successfully add the file__
 2. Click ```Git```
 > ![Click "Git"](../assets/images/task3-3-2.png)
 
-3. Click ```Push...``` (or click ```CTRL``` + ```Shift``` + ```K``` on your keyboard for shortcut)
-> ![Click "Push..." (or click "CTRL" + "Shift" + "K" on your keyboard for shortcut)](../assets/images/task3-3-3.png)
+3. Click ```Push...``` (or click __[CTRL]__ + __[Shift]__ + __[K]__ on your keyboard for shortcut)
+> ![Click "Push..." (or click __[CTRL]__ + __[Shift]__ + __[K]__ on your keyboard for shortcut)](../assets/images/task3-3-3.png)
 
 ***
 
