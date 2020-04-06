@@ -12,9 +12,9 @@ permalink: /
 {:toc}
 
 ## Introduction
-PyCharm is a subscription-based Python IDE developed by JetBrains. The Jetbrains PyCharm IDE is widely adopted in the tech industry and educational environment.
+_PyCharm_ is a subscription-based _Python IDE_ developed by _JetBrains_. The JetBrains PyCharm IDE is widely adopted in the tech industry and educational environment.
 
-This purpose of this document is to help you become more familiar with some of PyCharm's built-in features. In this document, we will guide you through using PyCharm's git version control features as well as its unit testing features.
+This purpose of this document is to help you become more familiar with some of PyCharm's built-in features. In this document, we will guide you through using PyCharm's _git version control_ features as well as its _unit testing_ features.
 
 ## Is This Guide For You
 If you are:
@@ -26,7 +26,7 @@ If you are:
 ## Software Versions
 This guide uses PyCharm version 2019.4.4 for Window, and Python 3.8.2.
 
-**Note:** You must have a _valid_ subscription to the _JetBrains Toolbox_ before you can download PyCharm.
+❗ **Note:** You must have a _valid_ subscription to the _JetBrains Toolbox_ before you can download PyCharm.
 
 If you do not have PyCharm installed, download the latest version [here](https://www.jetbrains.com/pycharm/download/#section=windows).
 
