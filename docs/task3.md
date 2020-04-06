@@ -15,13 +15,13 @@ Use PyCharm to add, commit and push your code to GitHub
 1. TOC	
 {:toc}	
 
-***
+---
 
 Version control and sharing your code using Git and GitHub are two of the most sought after skills that employers look for. By following the steps, you will be able to keep track of different version of your code as you work on a project and share them as required.
 
-___Note: A Git repository must be set up beforehand. See "Creating a Git Respository and Connecting to Github" to set up a git repository___ (connect to the other page")
+❗ **Note:** A Git repository must be set up beforehand. See [Creating a Git Respository and Connecting to Github](https://dlee.ca/user-documentation/docs/task1/) to set up a git repository.
 
-***
+---
 
 ## Adding Files
 Before you can start creating different versions of your code by committing them, you first need to stage/add files to the repository, this will enable the file to be considered for the commit.
@@ -29,7 +29,7 @@ Before you can start creating different versions of your code by committing them
 1. Open the file you want to add to Git repository
 > ![Open the file you want to add to Git repository](../assets/images/task3-1-1.png)
 
-___Note: all the files that have not been added yet will appear in red font___
+❗ **Note:** All the files that have not been added yet will appear in _red_ font.
 
 2. Click ```VCS``` from menu bar at the top
 > ![Click "VCS" from menu bar at the top](../assets/images/task3-1-2.png)
@@ -40,17 +40,16 @@ ___Note: all the files that have not been added yet will appear in red font___
 4. Click ```Add``` to stage the files for commit
 > ![Click "Add" to stage the files for commit](../assets/images/task3-1-4.png)
 
-- which is an equivalent of typing __[CTRL]__ + __[Alt]__ + __[A]__ on your keyboard
+❗ **Note:** You can add files by clicking __[CTRL]__ + __[Alt]__ + __[A]__ on your keyboard.
 
 OR
 
 Right click the file on the sidebar, click ```Git``` then ```Add```
 > ![Right click the file on the sidebar, click "Git" then "Add"](../assets/images/task3-1-5.png)
 
-___Note: the file name will appear in green when you successfully add the file___
+❗ **Note:** The file name will appear in _green_ when you successfully add the file.
 
-
-***
+---
 
 ## Committing Files
 
@@ -69,9 +68,9 @@ ___Note: the file name will appear in green when you successfully add the file__
 5. Click ```Commit```
 > ![Click "Commit"](../assets/images/task3-2-5.png)
 
-___Note: the file name will appear in white when you successfully add the file___
+❗ **Note:** The file name will appear in _white_ when you successfully add the file.
 
-***
+---
 
 ## Pushing to GitHub
 
@@ -84,7 +83,7 @@ ___Note: the file name will appear in white when you successfully add the file__
 3. Click ```Push...``` (or click __[CTRL]__ + __[Shift]__ + __[K]__ on your keyboard for shortcut)
 > ![Click "Push..." (or click __[CTRL]__ + __[Shift]__ + __[K]__ on your keyboard for shortcut)](../assets/images/task3-3-3.png)
 
-***
+---
 
 You have added, committed, and pushed your code to your GitHub cloud repository.
 You can check whether the process was successful by logging into your GitHub account and checking your version history. 
