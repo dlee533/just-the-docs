@@ -49,5 +49,7 @@ This document uses the following typographical conventions.
 | Keyboard Keystrokes | **[Bold]** | **[Ctrl]**, **[Shift]**, **[Alt]** |
 | Key terms and emphasis | _Italics_ | _valid_, _Git_, _GitHub_ |
 
+❗ **Note:** This is a note icon which indicates that the following information should be carefully read.
+
 ## Conclusion
-Let’s get started on learning about some of PyCharm's built-in features. We recommend starting with [creating a git repository](https://dlee.ca/user-documentation/docs/task1/) first _before_ moving onto _adding, committing and pushing your code to GitHub_. _Creating a unit test file_ can be done at any time.
+Let’s get started on learning about some of PyCharm's built-in features. We recommend starting with [creating a git repository](https://dlee.ca/user-documentation/docs/task1/) first _before_ moving onto [adding, committing and pushing your code to GitHub](https://dlee.ca/user-documentation/docs/task3/). [Creating a unit test file](https://dlee.ca/user-documentation/docs/task2/) can be done at any time.
