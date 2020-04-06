@@ -40,7 +40,7 @@ ___Note: all the files that have not been added yet will appear in red font___
 4. Click ```Add``` to stage the files for commit
 > ![Click "Add" to stage the files for commit](../assets/images/task3-1-4.png)
 
-- which is an equivalent of typing ```Ctrl``` + ```Alt``` + ```A``` on your keyboard
+- which is an equivalent of typing __[CTRL]__ + __[Alt]__ + __[A]__ on your keyboard
 
 OR
 
