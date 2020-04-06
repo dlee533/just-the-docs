@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 5
 ---
 
-Here are some terms and definitions to guide you in this document.
+Below are some terms and definitions to guide you in this document.
 
 ---
 
